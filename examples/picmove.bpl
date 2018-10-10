@@ -1,0 +1,10 @@
+sf();
+sfs(300,300);
+loadpic("kek","pic.png");
+=("i",0);
+repeat(300);
+cls();
+drawpic("kek",0,i);
+++("i");
+sleep(10);
+endcycle();

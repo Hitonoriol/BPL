@@ -1,0 +1,11 @@
+sf();
+sfs(500,500);
+noresize();
+placebutton("CLICK ME","but1",10,10,100,50);
+textfield("txt",10,65,100,30);
+if(but1,"=","1");
+pt(txt);
+=("but1","0");
+endif();
+sleep(100);
+goto(5);
